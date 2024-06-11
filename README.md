@@ -16,7 +16,7 @@ Detection Objects
 Draw line objects
 
 	Circle line
-		![image](https://github.com/Huydo00/polyservice/assets/88822162/47424d56-3b6e-4e74-a632-a5ea311f6ce4)
+![image](https://github.com/Huydo00/polyservice/assets/88822162/47424d56-3b6e-4e74-a632-a5ea311f6ce4)
  		DONE
 
 	Area
